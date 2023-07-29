@@ -1,0 +1,27 @@
+.bgcolor{
+    background-color: #eeeef4;
+  }
+  .center{
+    text-align: center;
+  }
+  .form{
+    border: 2px solid red;
+    background-color: #f9f9fe;
+    padding: 20px;
+  }
+  .textcolor{
+    color: white;
+  }
+  .visibility{
+    visibility: hidden;
+  }
+  .screen{
+    border: 5px solid rgb(12, 11, 11);
+    padding: 20px;
+    margin: 20px;
+  }
+  .button{
+    margin: 30px;
+    color: #841584;
+    background-color: #e6e6e6;
+  }
